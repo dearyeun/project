@@ -103,6 +103,7 @@
 #     if temp%3==0:
 #         break
 
+<<<<<<< HEAD
 #     temp=+1
 
 
