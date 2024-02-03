@@ -103,7 +103,7 @@
 #     if temp%3==0:
 #         break
 
-<<<<<<< HEAD
+#   <<<<<<< HEAD
 #     temp=+1
 
 
@@ -132,3 +132,11 @@
 #(5)
 # a , b = map(int,input().split())
 # print(a/b)
+
+#(6)
+# a , b = map(int,input().split())
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a//b)
+# print(a%b)
